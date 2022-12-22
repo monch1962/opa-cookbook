@@ -1,4 +1,4 @@
-# opa-cookbook
+# OPA Cookbook
 General purpose info related to using Open Policy Agent (OPA), and related products such as conftest and Gatekeeper
 
 ## Code fragments
